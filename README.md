@@ -22,7 +22,7 @@ I approach technology as a skeptical systems observer. Complex fault isolation r
 Operating out of Wayland, MI. My architectural planning directly aligns with the defense and manufacturing objectives of the Michigan ODAI 2026-2031 "Reimagine the Arsenal of Democracy" initiative.
 
 ---
-https://www.linkedin.com/in/anthony-macfadyen-713aa73b0
+https://www.linkedin.com/in/anthony-macfadyen-713aa73b0?trk=contact-info
 
 https://twitter.com/AnthonyM32442
 
